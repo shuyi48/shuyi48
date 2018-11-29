@@ -1,0 +1,67 @@
+
+
+.fas {
+padding:10px;
+}
+
+.color1{
+    background-color:black;
+}
+.card  {
+    background-color:lavender;
+    margin:3% 1%;
+    
+}
+
+.card-body {
+    
+}
+
+.no-gap {
+    margin:0;
+    padding:0;
+    
+}
+
+.navbar {
+    background-color:linen;
+    color:black;
+}
+
+.nav-content {
+    color:black;
+}
+
+.container-fluid {
+    background-color:lightgrey;
+}
+
+.input-group {
+    padding:20px;
+
+}
+.color4{
+    background-color:linen;
+}
+
+.color3 {
+background-color:linen;
+    padding:20px 10px;
+}
+
+
+.color2 {
+    background-color:lightgoldenrodyellow;
+    padding-top:0px;
+    margin:0px
+}
+
+.btn-primary {
+    background-color:purple;
+}
+.btn-primary:hover{
+    background-color:mediumpurple;
+}
+
+.footer 
+}
